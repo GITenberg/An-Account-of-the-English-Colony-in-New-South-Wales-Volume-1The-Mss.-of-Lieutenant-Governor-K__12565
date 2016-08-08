@@ -1,0 +1,39 @@
+_repo: An-Account-of-the-English-Colony-in-New-South-Wales-Volume-1The-Mss.-of-Lieutenant-Governor-K__12565
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Collins, David
+    birthdate: 1756
+    deathdate: 1810
+    gutenberg_agent_id: '4430'
+    url: http://www.gutenberg.org/2009/agents/4430
+    wikipedia: http://en.wikipedia.org/wiki/David_Collins_%28governor%29
+  - agent_name: King, Philip Gidley
+    birthdate: 1758
+    deathdate: 1808
+    gutenberg_agent_id: '31941'
+    url: http://www.gutenberg.org/2009/agents/31941
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'New South Wales -- Description and travel'
+- GITenberg
+title: 'An Account of the English Colony in New South Wales, Volume 1
+
+  With Remarks on the Dispositions, Customs, Manners, Etc. of The
+
+  Native Inhabitants of That Country. to Which Are Added, Some
+
+  Particulars of New Zealand; Compiled, By Permission, From
+
+  The Mss.         of Lieutenant-Governor King.'
+url: http://www.gutenberg.org/ebooks/12565
